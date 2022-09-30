@@ -2,7 +2,7 @@
   - [Topics](./topics/topics.md)
     - [Namespace](./topics/namespace.md)
     - [Remapping](./topics/remapping.md)
-  - [Nodes](./nodes/nodes.md)
+  - [Nodes](./nodes/README.md)
     - [Publisher](./nodes/publisher.md)
     - [Subscriber](./nodes/subscriber.md)
     - [Service](./nodes/rosservice.md)
