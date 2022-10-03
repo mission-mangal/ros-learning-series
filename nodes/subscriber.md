@@ -37,4 +37,6 @@ subscriber_callback2()
     // Print the data from topic
 }
 ```
+
 ## Ask yourself
+- [ ] Is there any better way to communicate instead of the [first program in advanced](#L9) ?

@@ -1,5 +1,5 @@
 - [ros-learning-series](#ros-learning-series)
-  - [Topics](./topics/topics.md)
+  - [Topics](./topics/README.md)
     - [Namespace](./topics/namespace.md)
     - [Remapping](./topics/remapping.md)
   - [Nodes](./nodes/README.md)
@@ -26,3 +26,6 @@ mkdir -p ros_learning_series/src
 catkin create pkg ros_learning_series std_msgs std_srvs roscpp rospy actionlib
 ```
 Inside write you codes with the name provided in each qn.
+
+## Resource
+- http://wiki.ros.org/ROS/Introduction
