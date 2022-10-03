@@ -8,7 +8,8 @@
 ### Advanced
 - [ ] Write two programs with below architecture, whenever first program publishes **"Hi"**, second program should publish **"hello"** and similarly for **"Mission completed"** ,**"Well done"** - *pub_and_sub_pg1.[cpp|py]*, *pub_and_sub_pg2.[cpp|py]*
 <br/>
-<img src="../assets/two_pub_and_sub.jpg" style=""/>
+<img src="../assets/two_pub_and_sub.jpg" style="width:500px;"/>
+
 - [ ] Write two programs with below architecture, one program contains two publishers - *two_pub.[cpp|py]*
 ```cpp
 // Pseudo code
